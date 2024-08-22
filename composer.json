@@ -1,5 +1,5 @@
 {
-    "name": "soft/logimek",
+    "name": "logimek/soft",
     "autoload": {
         "psr-4": {
             "Logimek\\Soft\\": "src/"
