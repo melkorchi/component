@@ -1,0 +1,15 @@
+{
+    "name": "soft/logimek",
+    "autoload": {
+        "psr-4": {
+            "Logimek\\Soft\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mek",
+            "email": "logimek72@gmail.com"
+        }
+    ],
+    "require": {}
+}
