@@ -2,7 +2,7 @@
     "name": "logimek/component",
     "autoload": {
         "psr-4": {
-            "Logimek\\Soft\\": "src/"
+            "Logimek\\Component\\": "src/"
         }
     },
     "authors": [
@@ -11,5 +11,7 @@
             "email": "logimek72@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
