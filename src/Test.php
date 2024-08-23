@@ -7,4 +7,9 @@
     {
       return $message;
     }
+
+    public function saySalam(): string
+    {
+      return 'Salam 3aleikoum';
+    }
   }
