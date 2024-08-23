@@ -1,5 +1,5 @@
 <?php
-  namespace Logimek\Soft;
+  namespace Logimek\Component;
 
   class Winning
   {
