@@ -1,7 +1,7 @@
 <?php
   namespace Logimek\Component;
 
-  class Winning
+  class Test
   {
     public function say(string $message): string
     {
